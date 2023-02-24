@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeineb KEFI</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
-<img margin-left="100%" alt="coding" height="500px" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+<img margin-left="100%" alt="coding" height="400px" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaineb125" alt="zaineb125" /></a> </p>
 
 - 🔭 I’m currently working on **a recruiting platform with GoMyCode**
